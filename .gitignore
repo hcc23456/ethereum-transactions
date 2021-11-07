@@ -1,0 +1,13 @@
+# Ignore files related to API keys
+.env
+
+# Ignore all text files
+*.txt
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore these specific files
+cryptotradertax-interview.txt
+transactions-old.js
+transactions.csv
